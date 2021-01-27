@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "PPRotator",
+  "version": "1.0",
+
+  "description": "Enables 3D Rotation section of Privateer Press gallery without the need for Flash",
+
+  "icons": {
+    "48": "icons/pprotator.svg"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://privateerpress.com/*/gallery/*"],
+      "js": ["pprotator.js"]
+    }
+  ]
+}
