@@ -6,9 +6,10 @@ This browser addon/extension inserts javascript into the gallery pages to remedy
 
 ## Install
 
-The addonn can be installed in Firefox from their Add-ons page: [https://addons.mozilla.org/en-US/firefox/addon/pprotator/]
+The addon can be installed in Firefox from their Add-ons page: [https://addons.mozilla.org/en-US/firefox/addon/pprotator/]
+To install in Microsoft Edge, you can go to their Extensions page: [https://microsoftedge.microsoft.com/addons/detail/pprotator/ddflccpegihphbbkdjekomceggcbegbf]
 
-It is still being reviewed at Microsoft and Google for Edge and Chrome. If you can't wait for this (can take a long time), you can download the code directy from here and install it manually.
+It is still being reviewed at Google for Chrome. If you can't wait for this (can take a long time), you can download the code directy from here and install it manually.
 
 ### Chrome
 
@@ -17,9 +18,3 @@ It is still being reviewed at Microsoft and Google for Edge and Chrome. If you c
 3. Click on "Load Unpacked" and select the folder with the downloaded files.
 4. The extension should now be installed. Enjoy :)
 
-### Edge
-
-1. Open the edge://extensions page (or click the three dots at the top of your browser, and then selecting Extensions)
-2. Turn on Developer mode
-3. Click on "Load Unpacked" and select the folder with the downloaded files.
-4. The extension should now be installed. Enjoy :)
